@@ -1,4 +1,4 @@
-# 📝 QtBloc  
+# 📝 ZeroBloc  
 Bloc de notas sencillo para escritorio, desarrollado con PyQt5 que prioriza una interfaz ligera. Permite crear, editar y guardar archivos de texto (.txt) de forma rápida e intuitiva.  
 
 ## 📥 Instalación  
